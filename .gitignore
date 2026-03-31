@@ -1,2 +1,22 @@
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
+
+# Bioinformatics data files
+*.fastq
+*.fq
+*.fasta
+*.fa
 *.bam
+*.sam
+*.vcf
+
+# Project folders
+data/
+results/
